@@ -13,7 +13,7 @@ setup(
         "torch",
         "torchvision",
         "torchaudio",
-        "pytorch_lightning",
+        "pytorch_lightning==1.8.3",
         "tqdm",
         "numpy==1.26.0",
         "matplotlib",
